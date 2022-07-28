@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Start!</title>
+    <title>Title</title>
 </head>
 <body>
 Hello!
